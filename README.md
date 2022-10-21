@@ -14,4 +14,4 @@ npm start read
 npm start delete "id"
 
 # to update an existing note
-nom start update "id" "title" "body"
+npm start update "id" "title" "body"
